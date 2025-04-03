@@ -3,7 +3,7 @@ layout: post
 title: Glownexus - Graphic Design
 date: 2025-04-03 00:52 +0200
 description: Overview of my Graphic 3D and 2D design work for the company Glownexus.
-media_subpath: ../../assets/img/glownexus/
+media_subpath: /assets/img/glownexus/
 image:
   path: glownexus_4_transparent.png 
 categories: [Work Projects, 3D Design & Icons]
