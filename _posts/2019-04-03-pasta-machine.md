@@ -2,7 +2,7 @@
 layout: post
 title: Pasta Machine
 date: 2019-04-03 23:51 +0200
-media_subpath: ../../assets/img/pasta_machine/
+media_subpath: /assets/img/pasta_machine/
 description: Design of a pasta machine
 image:
   path: 3.jpg

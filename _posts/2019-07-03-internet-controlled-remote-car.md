@@ -3,7 +3,7 @@ layout: post
 title: Internet Controlled Remote Car
 date: 2019-07-03 23:51 +0200
 description: An internet-controlled toy car with safety features for kids and remote parent control.
-media_subpath: ../../assets/img/remote_car/
+media_subpath: /assets/img/remote_car/
 image:
   path: Skeleton4.png
 categories: [Industrial Design, Product Design]
@@ -66,7 +66,7 @@ This project solidified my interest in **software-hardware product development**
 
 ## Report
 Here you can download the report that was written:
-[**Download Report**](../../assets/img/remote_car/Report_Redacted.pdf){: .btn-primary}
+[**Download Report**](/assets/img/remote_car/Report_Redacted.pdf){: .btn-primary}
 
 ## Time
 - **First year, 4th module**
