@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design Sketching
-date: 2020-04-03 23:50 +0200
+date: 2020-04-11 23:50 +0200
 description: A selection of digital product sketches from the Design Sketching 3 course.
 media_subpath: /assets/img/design_sketching/
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dice Vault
-date: 2021-06-03 23:49 +0200
+date: 2021-06-17 23:49 +0200
 description: A handcrafted zebra wood dice vault with a magnetic closing mechanism.
 media_subpath: /assets/img/dice_vault/
 image:

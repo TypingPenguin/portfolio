@@ -1,7 +1,7 @@
 ---
 layout: post
 title: T-Rex CAM Mold Making
-date: 2019-11-03 23:50 +0200
+date: 2019-11-15 23:50 +0200
 media_subpath: /assets/img/t_rex/
 description: Designing and manufacturing a T-Rex keychain mold using CAD, CAM, and injection molding simulation.
 image:

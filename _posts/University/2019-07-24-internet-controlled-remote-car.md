@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internet Controlled Remote Car
-date: 2019-07-03 23:51 +0200
+date: 2019-07-24 23:51 +0200
 description: An internet-controlled toy car with safety features for kids and remote parent control.
 media_subpath: /assets/img/remote_car/
 image:

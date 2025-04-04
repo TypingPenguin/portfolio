@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blender Renders
-date: 2022-04-03 23:50 +0200
+date: 2022-04-28 23:50 +0200
 description: A collection of 3D renders and videos created in Blender, made as part of Inktober challenges.
 media_subpath: /assets/img/blender/
 image:

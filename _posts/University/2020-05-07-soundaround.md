@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SoundAround
-date: 2020-05-03 23:50 +0200
+date: 2020-05-07 23:50 +0200
 description: Wearable sensory aid for people with autism, using gentle vibrations to improve spatial awareness.
 media_subpath: /assets/img/sound_around/
 image:
